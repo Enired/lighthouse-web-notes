@@ -8,3 +8,4 @@ This repo contains all of the notes taken by [Derine](https://github.com/Enired)
 
 * [Week 1](/week_1/)
   * [Day 1](/week_1/day_1/)
+  * [Day 2](/week_1/day_2/)
